@@ -1,9 +1,9 @@
   ### 👋 Welcome! I am Teodora 
-- 👀 I’m a recent graduate and aspiring software engineer.
+ 👀 I’m a recent graduate and aspiring software engineer.
 
 
-
-- 🧰 Tech I worked with
+---
+ 🧰 Tech I worked with
 
 
 
@@ -14,9 +14,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="50" height="50"/> <img 
 src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" alt="Rabbit MQ" width="50" height="50"/>
 
-
-- 💞️ I am looking for an internship or a junior position where I can put my skills to good use and grow.
-- 📫 How to reach me teodora892@gmail.com 
-- :speech_balloon: Feel free to connect on [Linkedin](https://www.linkedin.com/in/teodora-cornea-14a718139/)
+---
+ 💞️ I am looking for an internship or a junior position where I can put my skills to good use and grow.
+ 
+ 📫 How to reach me teodora892@gmail.com 
+ 
+ :speech_balloon: Feel free to connect on [Linkedin](https://www.linkedin.com/in/teodora-cornea-14a718139/)
 
 
