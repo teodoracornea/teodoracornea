@@ -18,6 +18,5 @@ src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" alt="Rabbit MQ"
 - 💞️ I am looking for an internship or a junior position where I can put my skills to good use and grow.
 - 📫 How to reach me teodora892@gmail.com 
 - :speech_balloon: Feel free to connect on [Linkedin](https://www.linkedin.com/in/teodora-cornea-14a718139/)
-- 
 
 
