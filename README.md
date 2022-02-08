@@ -19,6 +19,6 @@ src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" alt="Rabbit MQ"
  
  📫 How to reach me teodora892@gmail.com 
  
- :speech_balloon: Feel free to connect on [Linkedin](https://www.linkedin.com/in/teodora-cornea-14a718139/)
+ :speech_balloon: Feel free to connect on [Linkedin](https://www.linkedin.com/in/teodora-iulia-cornea/)
 
 
