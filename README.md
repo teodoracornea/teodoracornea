@@ -8,7 +8,7 @@
 
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/> <img src="https://cdn.coveo.com/images/f_auto,q_auto/v1662697629/blogprod/SAP_10667c3362/SAP_10667c3362.png?_i=AA" alt="Hybris" width="10%" height="auto"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/> <img src="https://cdn.coveo.com/images/f_auto,q_auto/v1662697629/blogprod/SAP_10667c3362/SAP_10667c3362.png?_i=AA" alt="Hybris" width="8%" height="auto"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png" alt="DBeaver" width="50" height="50"/>
