@@ -1,5 +1,5 @@
   ### 👋 Welcome! I am Teodora 
- 👀 I’m a junior java developer that loves to grow and learn.
+ 👀 I’m a junior developer that loves to grow and learn. I'm currently working as a hybris application developer at IBM. 
 
 
 ---
