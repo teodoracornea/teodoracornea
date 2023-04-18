@@ -1,5 +1,5 @@
   ### 👋 Welcome! I am Teodora 
- 👀 I’m a recent graduate and aspiring software engineer.
+ 👀 I’m a junior java developer that loves to grow and learn.
 
 
 ---
@@ -15,7 +15,6 @@
 src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" alt="Rabbit MQ" width="50" height="50"/>
 
 ---
- 💞️ I am looking for an internship or a junior position where I can put my skills to good use and grow.
  
  📫 How to reach me teodora892@gmail.com 
  
